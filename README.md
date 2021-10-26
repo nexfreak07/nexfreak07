@@ -7,6 +7,6 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about A.I (Artificial Intelligence)
 - 📫 How to reach me: Instagram : nexFreak07 
-- 😄 LinkediIn : Akash Dasgupta  
+- 😄 Linkedln : Akash Dasgupta  
 - ⚡ Fun fact: I sleep a lot.
 
