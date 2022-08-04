@@ -1,7 +1,7 @@
 ### Hi there 👋! this is Akash Dasgupta, known as nexFreak 
 
 
-- 🔭 I’m currently a B.E Student
+- 🔭 I’m a Software Engineer at UST.
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on Deep Learning and Stuffs
 - 🤔 I’m looking for help with GANs
